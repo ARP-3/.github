@@ -1,41 +1,41 @@
-# ARP3 - Algoritmos Resolvem Problemas
+# ARP3 - Algoritmos Resuelven Problemas
 
-## Sobre a Empresa
+## Sobre la Empresa
 
-A **ARP3** é uma empresa especializada em desenvolvimento e conexão de soluções digitais, focada na transformação digital e gestão organizacional eficiente. Formada por especialistas com mais de 10 anos de experiência no mercado, oferecemos soluções práticas que realmente fazem diferença na operação das empresas.
+La **ARP3** es una empresa especializada en desarrollo y conexión de soluciones digitales, enfocada en la transformación digital y gestión organizacional eficiente. Formada por especialistas con más de 10 años de experiencia en el mercado, ofrecemos soluciones prácticas que realmente hacen la diferencia en la operación de las empresas.
 
-**Fundada em 2024**, a ARP3 nasce da união de profissionais experientes em tecnologia, desenvolvimento de software e inovação em processos de negócios. Nossa proposta é simples: entregar soluções práticas que realmente geram impacto, facilitando o dia a dia e impulsionando o crescimento sustentável das organizações.
+**Fundada en 2024**, ARP3 nace de la unión de profesionales experimentados en tecnología, desarrollo de software e innovación en procesos de negocios. Nuestra propuesta es simple: entregar soluciones prácticas que realmente generan impacto, facilitando el día a día e impulsando el crecimiento sostenible de las organizaciones.
 
-## Nossa Missão
+## Nuestra Misión
 
-> *"Algoritmos Resolvem Problemas"*
+> *"Algoritmos Resuelven Problemas"*
 
-Desenvolver e conectar soluções digitais que transformem desafios complexos em processos assertivos, eficientes e ágeis. Nosso compromisso é imersivo desde o insight até a entrega, com objetivo de elevar os resultados e superar expectativas dos nossos clientes.
+Desarrollar y conectar soluciones digitales que transformen desafíos complejos en procesos asertivos, eficientes y ágiles. Nuestro compromiso es inmersivo desde el insight hasta la entrega, con el objetivo de elevar los resultados y superar las expectativas de nuestros clientes.
 
-## Nossos Serviços
+## Nuestros Servicios
 
-### Principais Soluções
+### Principales Soluciones
 
-- **Automação de Fluxos**: Desenvolvemos automações inteligentes para eliminar tarefas repetitivas, aumentar produtividade e reduzir falhas operacionais
-- **Integração de Sistemas**: Conectamos diferentes plataformas e bancos de dados usando APIs robustas, garantindo sincronização entre ferramentas
-- **Gestão Assertiva**: Soluções para tomada de decisão baseada em dados, com dashboards interativos e relatórios inteligentes
-- **Valor Prático e Estratégico**: Tecnologia aliada à gestão e comunicação, construindo ferramentas sob medida com impacto real
+- **Automatización de Flujos**: Desarrollamos automatizaciones inteligentes para eliminar tareas repetitivas, aumentar productividad y reducir fallos operacionales
+- **Integración de Sistemas**: Conectamos diferentes plataformas y bases de datos usando APIs robustas, garantizando sincronización entre herramientas
+- **Gestión Asertiva**: Soluciones para la toma de decisiones basada en datos, con dashboards interactivos e informes inteligentes
+- **Valor Práctico y Estratégico**: Tecnología aliada a la gestión y comunicación, construyendo herramientas a medida con impacto real
 
-## Nossos Diferenciais
+## Nuestros Diferenciales
 
-✅ Integramos gestão, tecnologia e comunicação para eliminar gargalos operacionais  
-✅ Realizamos diagnóstico profundo de forma holística para as soluções propostas  
-✅ Desenvolvemos soluções sob medida, com visão sistêmica e foco em resultado  
-✅ Metodologia validada que já acelerou projetos estratégicos de grandes empresas  
+✅ Integramos gestión, tecnología y comunicación para eliminar cuellos de botella operacionales  
+✅ Realizamos diagnóstico profundo de forma holística para las soluciones propuestas  
+✅ Desarrollamos soluciones a medida, con visión sistémica y enfoque en resultados  
+✅ Metodología validada que ya aceleró proyectos estratégicos de grandes empresas  
 
-## Metodologia de Trabalho
+## Metodología de Trabajo
 
-## Nosso Foco
+## Nuestro Enfoque
 
-Ajudamos **médias e grandes organizações** a transformar desafios complexos em processos mais assertivos, eficientes e ágeis. Com um olhar focado em **performance**, **automação** e **integração**, oferecemos mais do que tecnologia - oferecemos parceria estratégica.
+Ayudamos a **medianas y grandes organizaciones** a transformar desafíos complejos en procesos más asertivos, eficientes y ágiles. Con una mirada enfocada en **rendimiento**, **automatización** e **integración**, ofrecemos más que tecnología - ofrecemos alianza estratégica.
 
 ---
 
-*Conectamos áreas, times e objetivos em torno de resultados concretos, fortalecendo a comunicação e impulsionando o crescimento sustentável do seu negócio.*
+*Conectamos áreas, equipos y objetivos en torno a resultados concretos, fortaleciendo la comunicación e impulsando el crecimiento sostenible de tu negocio.*
 
-**ARP3 - Onde algoritmos realmente resolvem problemas.**
+**ARP3 - Donde los algoritmos realmente resuelven problemas.**
